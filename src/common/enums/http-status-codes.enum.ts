@@ -1,0 +1,6 @@
+export enum HttpStatusCode {
+  OK = 200,
+  NOT_MODIFIED = 304,
+  UNPROCESSABLE_ENTITY = 422,
+  SERVICE_UNAVAILABLE = 503,
+}

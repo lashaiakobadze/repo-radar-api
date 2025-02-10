@@ -1,3 +1,5 @@
+### Important Replace or add .env file with .env.example content before start building!
+
 ### Key sections in the README:
 
 1. **API Endpoint**: Describes the `/search/repositories` endpoint, query parameters, and response format.
